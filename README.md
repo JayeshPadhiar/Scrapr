@@ -1,2 +1,2 @@
-# YouScrape
-Attempt to download stuff from Yoothoob
+# Scrapr
+Attempt to download stuff
